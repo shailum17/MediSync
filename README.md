@@ -2,7 +2,7 @@
 
 **Smart medicine reminder & dispenser built on an Arduino UNO**
 
-MediSync reminds you to take your medicine on time, dispenses it automatically via a servo-controlled compartment, tracks whether the dose was taken, and notifies you over WhatsApp if it's missed — all backed by a live web dashboard you can check from any device on your WiFi network.
+MediSync is an IoT-based smart medication reminder system that schedules timely medicine reminders, automatically dispenses medication through a servo-controlled compartment, records dose status, and sends real-time WhatsApp notifications for missed doses. A lightweight web dashboard provides live access to medication history and system controls from any device connected to the same Wi-Fi network.
 
 ---
 

@@ -44,6 +44,7 @@
 #include <RtcDS1302.h>
 #include <Servo.h>
 #include <SoftwareSerial.h>
+#include <EEPROM.h>
 
 // ================================================================
 //  USER CONFIGURATION
